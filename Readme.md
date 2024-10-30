@@ -39,7 +39,7 @@ pip install numpy matplotlib
 3. Install the required dependencies
 
 ``` bash
-git clone <repository-url>
+git clone https://github.com/ogeeDeveloper/best_first_TSP.git
 cd BEST_FIRST_TSP
 pip install -r requirements.txt
 ```
